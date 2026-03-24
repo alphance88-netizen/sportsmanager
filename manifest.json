@@ -1,0 +1,18 @@
+{
+    "name": "班级运动器材借还小助手",
+    "short_name": "器材借还",
+    "description": "班级体育器材借还与竞赛管理系统",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f8ff",
+    "theme_color": "#f0f8ff",
+    "orientation": "landscape",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏆</text></svg>",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
